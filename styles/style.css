@@ -8,3 +8,9 @@
     /* 4. git remote add ......   => github repo bilan kompyuterdagi repo ni ulaydi */
     /* 5. git branch -M main   => asosiy branch qilib main ni tayilnaydi */
     /* 6. git push -u origin main   => gitga ozgarishlarni yuborish */
+
+    * {
+        margin: 0;
+        padding: 0;
+        background-origin: padding-box;
+    }
