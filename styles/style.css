@@ -1,0 +1,10 @@
+/* 1. repository ochish */
+/* 2. Kompyuterda papka ochdik hamda uni vs code ochdik */
+/* 3. Vs code da index.html hamda style.css ochildi */
+/* 4. Terminalda quyidagi kodlar yozildi */
+    /* 1. git init => git ni proyektda ishga tushuradi*/   
+    /* 2. git add . => gitga ozgarishlarni qoshadi */
+    /* 3. git commit -m "qandaydir izoh"   => Ozgarishlarga izoh berish */
+    /* 4. git remote add ......   => github repo bilan kompyuterdagi repo ni ulaydi */
+    /* 5. git branch -M main   => asosiy branch qilib main ni tayilnaydi */
+    /* 6. git push -u origin main   => gitga ozgarishlarni yuborish */
